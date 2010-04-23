@@ -1,0 +1,64 @@
+\documentclass{beamer}
+%\documentclass[draft]{beamer}
+
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{calc}
+
+\usetheme{Antibes}
+\usecolortheme{dolphin}
+\usefonttheme{default}
+\setbeamertemplate{sidebar left}{\vfill\hspace{0.1cm}\pgfimage[height=.5cm]{bilder/CC-BY-NC-SA}}
+\setbeamertemplate{footline}[frame number]
+
+\newcommand{\email}[2]{#1@#2}
+
+\title{Facebook, Google, Twitter \& Co.}
+\subtitle{Freud und Leid mit den Gefahren im sozialen Netz}
+\author{%
+		Stefan Schlott\inst{1}\and%
+		Andreas\inst{2}%
+}
+\institute{%
+	\inst{1}\email{stefan.schlott}{ulm.ccc.de}\and%
+	\inst{2}\email{}{geekosphere.org}%
+}
+\date{03.05.2010}
+\logo{\vspace{5.5cm} \pgfimage[height=2cm]{bilder/Chaosknoten}}
+
+
+\begin{document}
+
+\begin{frame}[plain]
+\titlepage
+\end{frame}
+
+\begin{frame}{Über uns...}
+	\begin{columns}
+		\column{.5\textwidth}
+			\begin{itemize}
+				\item ein Eintrag
+				\item noch ein Eintrag
+			\end{itemize}
+		\column{.5\textwidth}
+			\begin{itemize}
+				\item ein Eintrag
+				\item noch ein Eintrag
+			\end{itemize}
+	\end{columns}
+\end{frame}
+
+\input{1-socialnetworks}
+
+\input{2-suchmaschinen}
+
+\input{3-chat}
+
+\input{4-massnahmen}
+
+\begin{frame}[plain]
+That's it!
+\end{frame}
+
+\end{document}
+% vim: ai ts=2 sw=2
