@@ -1,4 +1,5 @@
-\documentclass{beamer}
+\documentclass[hyperref={pdfpagelabels=false}]{beamer}
+%\documentclass{beamer}
 %\documentclass[draft]{beamer}
 
 \usepackage[german]{babel}
@@ -11,6 +12,13 @@
 \setbeamertemplate{sidebar left}{\vfill\hspace{0.1cm}\pgfimage[height=.5cm]{bilder/CC-BY-NC-SA}}
 \setbeamertemplate{footline}[frame number]
 \setbeamercovered{transparent}
+
+% Fixing Warnings
+\RequirePackage{fix-cm}
+\RequirePackage{pgfcore}
+\usepackage{pgfpages} 
+\let\Tiny=\tiny
+\usepackage{lmodern}
 
 \newcommand{\email}[2]{#1@#2}
 
@@ -43,8 +51,9 @@
 			\end{itemize}
 		\column{.5\textwidth}
 			\begin{itemize}
-				\item ein Eintrag
-				\item noch ein Eintrag
+				\item Student an der Uni Augsburg
+				\item 8. Semester Diplom Informatik
+				\item CCC-Mitglied vom Chaostreff Augsburg
 			\end{itemize}
 	\end{columns}
 \end{frame}
