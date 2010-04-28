@@ -4,6 +4,8 @@
 
 \usepackage[german]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{url}
+\usepackage{endnotes}
 \usepackage{calc}
 
 \usetheme{Antibes}
@@ -21,6 +23,8 @@
 \usepackage{lmodern}
 
 \newcommand{\email}[2]{#1@#2}
+%\def\supertiny{ \font\supertinyfont = cmr10 at 1pt \relax \supertinyfont} 
+\renewcommand{\enotesize}{\tiny}
 
 \title{Facebook, Google, Twitter \& Co.}
 \subtitle{Freud und Leid mit den Gefahren im sozialen Netz}
@@ -62,7 +66,7 @@
 	\vfill
 	CCC: Seit über 25 Jahren Club für Hacker, Computerspezialisten, Datenschützer
 
-	Hacker: "`Jemand, der mit einer Kaffeemaschine Toast zubereiten kann"' -- kreativer Mißbrauch von Technik
+	Hacker: Kreativer Ge- oder Mißbrauch von Technik -- "`Jemand, der mit einer Kaffeemaschine Toast zubereiten kann"'
 \end{frame}
 
 \input{1-socialnetworks}
@@ -75,6 +79,10 @@
 
 \begin{frame}[plain]
 That's it!
+\end{frame}
+
+\begin{frame}[plain]
+	\theendnotes
 \end{frame}
 
 \end{document}
