@@ -22,7 +22,8 @@
 \let\Tiny=\tiny
 \usepackage{lmodern}
 
-\newcommand{\email}[2]{#1@#2}
+%\newcommand{\email}[2]{#1@#2}
+\newcommand{\email}[2]{#1\pgfimage[height=2ex]{bilder/at_sign}#2}
 \newcommand{\urlref}[2]{\only<#1>{\endnote{\url{#2}}}}
 %\def\supertiny{ \font\supertinyfont = cmr10 at 1pt \relax \supertinyfont} 
 \renewcommand{\enotesize}{\tiny}
