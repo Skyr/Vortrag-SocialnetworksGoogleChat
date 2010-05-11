@@ -3,7 +3,7 @@
 <node CREATED="1271331283639" ID="ID_1477061043" MODIFIED="1271488287338" TEXT="Sensibilisierung Google, soziale Netze, Chat">
 <node CREATED="1271331312528" ID="ID_825552726" MODIFIED="1271331314668" POSITION="right" TEXT="Chat">
 <node CREATED="1271332008285" ID="ID_1032437877" MODIFIED="1271332011754" TEXT="Vorf&#xe4;lle/Probleme">
-<node CREATED="1271486707677" FOLDED="true" ID="ID_33803253" MODIFIED="1271486832815">
+<node CREATED="1271486707677" ID="ID_33803253" MODIFIED="1273047021297">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -79,7 +79,7 @@
 </node>
 <node CREATED="1271331321405" ID="ID_991101140" MODIFIED="1271331388814" POSITION="right" TEXT="Suchmaschinen">
 <node CREATED="1271331399023" ID="ID_1312386399" MODIFIED="1271331402716" TEXT="Vorf&#xe4;lle">
-<node CREATED="1271331408429" FOLDED="true" ID="ID_1725888065" MODIFIED="1271486464446">
+<node CREATED="1271331408429" ID="ID_1725888065" MODIFIED="1273046870771">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -136,6 +136,12 @@
 <node CREATED="1271487734456" ID="ID_1132372020" LINK="http://www.paterva.com/web4/index.php/client" MODIFIED="1271487734456" TEXT="paterva.com &gt; Web4 &gt; Index.php &gt; Client"/>
 <node CREATED="1271487579571" ID="ID_305127208" LINK="http://stefan.ploing.de/2009-05-13-marc-l-google-portrait" MODIFIED="1271487579571" TEXT="stefan.ploing.de &gt; 2009-05-13-marc-l-google-portrait"/>
 <node CREATED="1271487524156" ID="ID_465760113" LINK="http://www.handelsblatt.com/politik/international/us-zeitung-enttarnt-tausende-cia-agenten" MODIFIED="1271487524156" TEXT="handelsblatt.com &gt; Politik &gt; International &gt; Us-zeitung-enttarnt-tausende-cia-agenten;1048449"/>
+</node>
+<node CREATED="1273578582423" ID="ID_1253958524" MODIFIED="1273578607554" TEXT="Gruppenrelationen">
+<node CREATED="1273578610449" ID="ID_1506532044" LINK="http://stefan.ploing.de/2007-01-04-was-man-mit-social-network-daten-machen-kann" MODIFIED="1273578610449" TEXT="stefan.ploing.de &gt; 2007-01-04-was-man-mit-social-network-daten-machen-kann"/>
+<node CREATED="1273578612093" ID="ID_887835721" MODIFIED="1273578624084" TEXT="Bedeutung von Bekanntschaften: Gemeinsame Eigenschaften">
+<node CREATED="1273578632612" ID="ID_114414241" LINK="http://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks.html" MODIFIED="1273578632612" TEXT="ted.com &gt; Talks &gt; Nicholas christakis the hidden influence of social networks"/>
+</node>
 </node>
 </node>
 <node CREATED="1271487588445" ID="ID_342406204" MODIFIED="1271487593126" TEXT="Einmal im Netz, immer im Netz">
