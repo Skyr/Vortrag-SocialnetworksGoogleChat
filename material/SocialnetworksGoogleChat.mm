@@ -37,7 +37,7 @@
 </node>
 <node CREATED="1271331315967" ID="ID_1381414966" MODIFIED="1271331320491" POSITION="left" TEXT="Soziale Netze">
 <node CREATED="1271331404686" ID="ID_79458245" MODIFIED="1271487232523" TEXT="Vorf&#xe4;lle">
-<node CREATED="1271442291475" ID="ID_481667658" MODIFIED="1271486631237" TEXT="Facebook">
+<node CREATED="1271442291475" ID="ID_481667658" MODIFIED="1274791703351" TEXT="Facebook">
 <node CREATED="1271443799317" ID="ID_1107100264" LINK="http://blog.zeit.de/kulturkampf/2010/04/12/facebook-datenschutz-verantwortungslos/" MODIFIED="1271443799317" TEXT="blog.zeit.de &gt; Kulturkampf &gt; 2010 &gt; 04 &gt; 12 &gt; Facebook-datenschutz-verantwortungslos"/>
 <node CREATED="1271444844731" ID="ID_561173478" MODIFIED="1271486448440" TEXT="Speichert Daten f&#xfc;r immer?">
 <node CREATED="1271444855752" ID="ID_1961851976" LINK="http://www.spiegel.de/netzwelt/web/0" MODIFIED="1271444855752" TEXT="spiegel.de &gt; Netzwelt &gt; Web &gt; 0,1518,608116,00"/>
@@ -52,6 +52,10 @@
 <node CREATED="1271487659303" ID="ID_900274946" MODIFIED="1271487664931" TEXT="Trackt auch nicht angemeldete Benutzer">
 <node CREATED="1271487670671" ID="ID_1748449236" LINK="http://www.golem.de/0912/71670.html" MODIFIED="1271487670671" TEXT="golem.de &gt; 0912 &gt; 71670"/>
 </node>
+<node CREATED="1274791684888" ID="ID_679600033" MODIFIED="1274791695256" TEXT="Facebook und MySpace verkaufen Benutzerdaten an Werbende">
+<node CREATED="1274791695917" ID="ID_1076571505" LINK="http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html" MODIFIED="1274791695917" TEXT="online.wsj.com &gt; Article &gt; SB10001424052748704513104575256701215465596"/>
+</node>
+<node CREATED="1274791703962" ID="ID_1326431622" LINK="http://www.onlinemba.com/blog/facebook-facts-you-didnt-know/" MODIFIED="1274791703962" TEXT="onlinemba.com &gt; Blog &gt; Facebook-facts-you-didnt-know"/>
 </node>
 <node CREATED="1271442296488" ID="ID_1607851001" MODIFIED="1271442298570" TEXT="StudiVZ">
 <node CREATED="1271487547784" ID="ID_89939006" MODIFIED="1271487556201" TEXT="Datencrawling war m&#xf6;glich">
