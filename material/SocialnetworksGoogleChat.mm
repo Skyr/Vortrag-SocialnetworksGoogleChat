@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1271331283639" ID="ID_1477061043" MODIFIED="1271488287338" TEXT="Sensibilisierung Google, soziale Netze, Chat">
+<node CREATED="1271331283639" ID="ID_1477061043" MODIFIED="1277812269118" TEXT="Sensibilisierung Google, soziale Netze, Chat">
 <node CREATED="1271331312528" ID="ID_825552726" MODIFIED="1271331314668" POSITION="right" TEXT="Chat">
 <node CREATED="1271332008285" ID="ID_1032437877" MODIFIED="1271332011754" TEXT="Vorf&#xe4;lle/Probleme">
 <node CREATED="1271486707677" ID="ID_33803253" MODIFIED="1273047021297">
@@ -98,7 +98,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1271331531286" HGAP="-215" ID="ID_973613379" MODIFIED="1271332027314" POSITION="right" TEXT="Quellen" VSHIFT="183">
+<node CREATED="1271331531286" HGAP="-28" ID="ID_973613379" MODIFIED="1277812306754" POSITION="right" TEXT="Quellen" VSHIFT="203">
 <node CREATED="1271331459764" ID="ID_885731052" MODIFIED="1271331894867" TEXT="Pr&#xe4;sentationen">
 <node CREATED="1271331901921" ID="ID_566751221" LINK="http://entropia.de/wiki/Datenschutz_%28Gymnasium_Neureut%29" MODIFIED="1271331901921" TEXT="entropia.de &gt; Wiki &gt; Datenschutz %28Gymnasium Neureut%29"/>
 <node CREATED="1271331908465" ID="ID_1844868109" LINK="http://www.robert-bahmann.de/stama/" MODIFIED="1271331908465" TEXT="robert-bahmann.de &gt; Stama"/>
@@ -223,6 +223,16 @@
 </node>
 </node>
 <node CREATED="1271676509300" ID="ID_335723230" LINK="http://www.golem.de/1002/72948.html" MODIFIED="1271676509300" TEXT="golem.de &gt; 1002 &gt; 72948"/>
+</node>
+<node CREATED="1277812270929" HGAP="-146" ID="ID_1127027166" MODIFIED="1277812320699" POSITION="right" TEXT="Nutzungsverhalten" VSHIFT="79">
+<node CREATED="1277812321609" ID="ID_702205447" MODIFIED="1277812323561" TEXT="StudiVZ">
+<node CREATED="1277812324825" ID="ID_768737415" MODIFIED="1277812350983" TEXT="http://www.infoq.com/presentations/Social-Networks-NoSQL (06/2010)">
+<node CREATED="1277812337224" ID="ID_151456604" MODIFIED="1277812340981" TEXT="16 Millionen Nutzer"/>
+<node CREATED="1277812352294" ID="ID_1056920374" MODIFIED="1277812361801" TEXT="&gt;80% jeden Monat aktiv"/>
+<node CREATED="1277812363349" ID="ID_467111081" MODIFIED="1277812368407" TEXT="&gt;40% t&#xe4;glich aktiv"/>
+<node CREATED="1277812373188" ID="ID_873411767" MODIFIED="1277812378774" TEXT="&gt; 30 min. daily time online"/>
+</node>
+</node>
 </node>
 </node>
 </map>
