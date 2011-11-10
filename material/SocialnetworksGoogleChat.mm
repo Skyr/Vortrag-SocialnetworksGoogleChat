@@ -155,7 +155,7 @@
 <node CREATED="1271487624728" ID="ID_217067800" MODIFIED="1271487633110" TEXT="Du klickst auf L&#xf6;schen - aber was passiert am anderen Ende?"/>
 </node>
 </node>
-<node CREATED="1271445010086" FOLDED="true" ID="ID_732076377" MODIFIED="1271487190128" TEXT="Finanzieller Hintergrund">
+<node CREATED="1271445010086" ID="ID_732076377" MODIFIED="1320911185464" TEXT="Finanzieller Hintergrund">
 <node CREATED="1271445176426" ID="ID_818145961" MODIFIED="1271445195511" TEXT="Gewerbe: M&#xfc;ssen(!) lt. dt. Gesetz Gewinnerzielungsabsicht haben"/>
 <node CREATED="1271445288232" ID="ID_1036578065" MODIFIED="1271445290954" TEXT="Firmengr&#xf6;&#xdf;e">
 <node CREATED="1271445291674" ID="ID_1405363753" MODIFIED="1271445301365" TEXT="VZNet: &gt;300 Mitarbeiter (lt. Webseite)">
@@ -170,6 +170,9 @@
 <node CREATED="1271445414063" ID="ID_1576024993" MODIFIED="1271445417195" TEXT="Werbeeinblendungen">
 <node CREATED="1271445418620" ID="ID_905450047" MODIFIED="1271445429998" TEXT="Werbemarkt im letzten Jahr um 75% eingebrochen"/>
 </node>
+</node>
+<node CREATED="1320911191133" ID="ID_1119088348" MODIFIED="1320911195416" TEXT="Comic &quot;the free model&quot;">
+<node CREATED="1320911196044" ID="ID_541503368" LINK="http://geekandpoke.typepad.com/geekandpoke/2010/12/the-free-model.html" MODIFIED="1320911196044" TEXT="geekandpoke.typepad.com &gt; Geekandpoke &gt; 2010 &gt; 12 &gt; The-free-model"/>
 </node>
 </node>
 <node CREATED="1271486372561" ID="ID_876120569" MODIFIED="1271761724030" TEXT="Rechtlicher Hintergrund">
